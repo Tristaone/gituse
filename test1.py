@@ -4,3 +4,6 @@
 # @ProjectName: gituse
 # @FileName: test1.py
 # @Software: PyCharm
+
+a = 1
+print(a)
